@@ -25,7 +25,7 @@ This project demonstrates a basic setup of an Astro application using Deno v2 as
 
 2. Install dependencies:
    ```
-   deno task install
+   deno install
    ```
 
 ### Development
@@ -51,7 +51,7 @@ deno task build
 To preview your production build:
 
 ```
-deno task preview
+deno task start
 ```
 
 Visit `http://localhost:8085` to see your application.
