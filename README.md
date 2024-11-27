@@ -87,8 +87,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 👨‍💻 Author
 
-Your Name
-
 - GitHub: [@Brattlof](https://github.com/Brattlof)
 
 ## 🙏 Acknowledgments
